@@ -22,7 +22,7 @@
   "dependencies": {
     "babel-loader": "^7.1.5",
     "css-loader": "^2.1.0",
-    "d3": "^5.7.0",
+    "d3": "^7.6.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "style-loader": "^0.23.1"
